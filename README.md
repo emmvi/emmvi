@@ -6,4 +6,4 @@ I'm a young software developer who is currently working on some personal project
 
 ### Contact
 
-<a href="mailto:emmvi@protonmail.com">emmvi@protonmail.com</a>
+<a href="mailto:emmvi@protonmail.com">Email</a>
