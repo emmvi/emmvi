@@ -2,7 +2,7 @@
 
 My name is Emily (She/Her)
 
-I'm a young software developer who is currently working on some personal projects, learning new things and is looking forward to contributing on different FOSS projects
+I'm a young software developer who is currently working on some personal projects, learning new things and looking forward to contributing to different FOSS projects
 
 ### Contact
 
